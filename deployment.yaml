@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: raju-app
-        image: rajuroe94/raju-app:latest
+        image: rajuroe/raju-app:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
