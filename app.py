@@ -38,7 +38,7 @@ def hello():
     </head>
     <body>
         <div class="container">
-            <h1>Sabitha PAPA! 👋</h1>
+            <h1>Sabitha PAPuuuu! 👋</h1>
             <p>Welcome to your CI/CD Pipeline!</p>
             <p>This app is running in Kubernetes 🚀</p>
         </div>
